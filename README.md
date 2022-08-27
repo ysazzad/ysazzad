@@ -1,4 +1,4 @@
-<h1 style = "color : red ;" align="center">Hi 👋, I'm Sazzad Hossen</h1>
+<h1 style = "color : white; background: black;" align="center">Hi 👋, I'm Sazzad Hossen</h1>
 <h3 align="center">A passionate MERN Stack developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ysazzad&label=Profile%20views&color=0e75b6&style=flat" alt="ysazzad" /> </p>
