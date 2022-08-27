@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sazzad Hossen</h1>
 <h3 align="center">A passionate MERN Stack developer from Bangladesh</h3>
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1400/0*FGD6BUzzZs1VJLuY.gif">
+<img align="right" alt="coding" width="300" src="https://miro.medium.com/max/1400/0*FGD6BUzzZs1VJLuY.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ysazzad&label=Profile%20views&color=0e75b6&style=flat" alt="ysazzad" /> </p>
 
